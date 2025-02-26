@@ -46,3 +46,15 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
+
+🎯 Please mention the requirements you met and which goals you achieved for this assignment.
+
+I managed to deploy the app on Vercel supprisingly, it didnt have any errors apart from me having to update an npm package. Then I got quite confused as I expected there to be errors in the logs for me to fix. The only thing that didn't work was logging in on the vercel deployment. Spent ages trying to figure it out googling stuff, turns out all it was, was an extra / in the url on the github app settings. 
+
+I also had 1 warning about changing the <img /> <Image />, but that was a simple fix.
+
+🎯 Were there any requirements or goals that you were not quite able to achieve?
+
+I did not try any of the stretch goals.
+
+🎯 If so, could you please tell us what was it that you found difficult about these tasks?
